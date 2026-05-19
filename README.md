@@ -1,6 +1,6 @@
 # 🚀 Perfil de Desarrollo - Alumno en Prácticas (DAW)
 
-Bienvenido/a al perfil de GitHub del estudiante en prácticas de **Desarrollo de Aplicaciones Web (DAW)** integrado en el equipo técnico de **[SSMÁS](https://ssmas.es/)**.
+Bienvenido/a al perfil de GitHub del estudiante en prácticas de **Desarrollo de Aplicaciones Web (DAW)** integrado en el equipo técnico de **[SSMÁS](https://ssmas.com/)**.
 
 Este espacio está destinado a recopilar el progreso, el código y el aprendizaje generado durante el periodo de Formación en Centros de Trabajo (FCT).
 
